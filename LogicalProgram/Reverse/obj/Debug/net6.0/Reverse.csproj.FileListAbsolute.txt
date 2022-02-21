@@ -1,0 +1,14 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\bin\Debug\net6.0\Reverse.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\bin\Debug\net6.0\Reverse.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\bin\Debug\net6.0\Reverse.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\bin\Debug\net6.0\Reverse.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\bin\Debug\net6.0\ref\Reverse.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\bin\Debug\net6.0\Reverse.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\ref\Reverse.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\Reverse\obj\Debug\net6.0\Reverse.genruntimeconfig.cache

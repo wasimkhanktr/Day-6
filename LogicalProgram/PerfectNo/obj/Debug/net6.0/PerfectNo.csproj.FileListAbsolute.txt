@@ -1,0 +1,14 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\bin\Debug\net6.0\PerfectNo.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\bin\Debug\net6.0\PerfectNo.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\bin\Debug\net6.0\PerfectNo.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\bin\Debug\net6.0\PerfectNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\bin\Debug\net6.0\ref\PerfectNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\bin\Debug\net6.0\PerfectNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\ref\PerfectNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\PerfectNo\obj\Debug\net6.0\PerfectNo.genruntimeconfig.cache

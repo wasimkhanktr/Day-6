@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\bin\Debug\net6.0\CoupneNo.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\bin\Debug\net6.0\CoupneNo.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\bin\Debug\net6.0\CoupneNo.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\bin\Debug\net6.0\CoupneNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\bin\Debug\net6.0\ref\CoupneNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\bin\Debug\net6.0\CoupneNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\ref\CoupneNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\CoupneNo\obj\Debug\net6.0\CoupneNo.genruntimeconfig.cache
